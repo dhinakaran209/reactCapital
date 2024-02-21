@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  height: 100vh;
+  background-color: skyblue;
+  padding: 20px;
+}
+
+.card-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 18px;
+}
